@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kjaskaran
-- 👀 I’m interested in IoT and software development.
+- 👀 I’m interested in Full Stack development, IoT, and Software development.
 - 🌱 I’m currently learning Embedded Systems Development at Conestoga College 
 - 💞️ I’m looking to collaborate on IoT projects
 - 📫 How to reach me @kaurjaskaran0997@gmail.com
