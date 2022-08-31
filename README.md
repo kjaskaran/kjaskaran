@@ -1,7 +1,7 @@
 
 ## <p align="center"> Hi!👋 I'm Jaskaran 👩🏻‍💻</p>
 
-<p align="center"> A detail-oriented Software Developer 👩🏻‍💻</p>
+<p align="center"> A meticulous and systematic Software Developer👩🏻‍💻</p>
 
 ---
 
