@@ -96,6 +96,16 @@
     src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" 
     alt="TailwindCSS logo">
 </img>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 5%;"
+    src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" 
+    alt="Python logo">
+</img>
+
+
 
 
 
