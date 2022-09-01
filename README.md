@@ -14,6 +14,10 @@
 
 ---
 
+> <a href="https://kaur-jaskaran.netlify.app/" > Portfolio </a>
+
+---
+
 > Languages and Tools
 
 <img 
